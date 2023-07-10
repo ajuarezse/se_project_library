@@ -162,7 +162,7 @@
   text-decoration: none;
 }
 
-.event__more:hover {
+.events__more:hover {
   color: #1f69c9;
 }
 
@@ -259,7 +259,7 @@
 }
 
 /* Add the CSS rule for your new class here. Make sure to place it before .card: parents should precede their children */
-.staff__card {
+.staff__cards {
   display: flex;
   max-width: 760px;
   justify-content: center;
