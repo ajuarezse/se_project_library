@@ -304,6 +304,7 @@
   font-size: 14px;
   line-height: 20px;
   color: #838383;
+  margin-top: auto;
 }
 
 .membership {
@@ -362,12 +363,13 @@
 }
 
 .about__title {
+  margin: 0;
   font-size: 20px;
   line-height: 30px;
   font-weight: 500;
   z-index: 1;
   max-width: 154px;
-  position: relative;
+  margin-right: 120px;
 }
 
 .about__content {
@@ -381,9 +383,10 @@
 
 .about__paragraph {
   margin-bottom: 32px;
+  margin-top: 0;
 }
 
-.about__paragraph {
+.about__paragraph:last-child {
   margin-bottom: 0;
 }
 
@@ -402,7 +405,7 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   font-size: 16px;
-  line-height: 16px;
+  line-height: 20px;
   padding: 60px 102px 60px 80px;
   color: #fff;
 }
@@ -466,4 +469,5 @@
 .footer__copyright {
   color: white;
   margin-top: 108px;
+  margin-bottom: 0;
 }
