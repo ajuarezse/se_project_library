@@ -24,8 +24,8 @@ This project is a simple landing page designed to welcome visitors and provide e
 
 - 📏**Normalize.css**: A modern, HTML5-ready alternative to CSS resets to ensure consistent styling across different browsers.
 
-## Check out the live project here: [Triple Peaks Library Live Demo](https://ajuarezse.github.io/se_project_library/).
+### Check out the live project here: [Triple Peaks Library Live Demo](https://ajuarezse.github.io/se_project_library/).
 
 ---
 
-The Triple Peaks Library webpage is my first project in the Software Engineer program at TripleTen. It was created based on a design brief given to be by the program.
+The Triple Peaks Library webpage is my first project in the Software Engineer program at TripleTen. It was created based on a design brief given to me by the program.
